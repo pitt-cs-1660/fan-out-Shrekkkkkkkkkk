@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  AWS_LAMBDA_ROLE_ARN: arn:aws:iam::123456789012:role/lambda-image-processing-role
+  AWS_LAMBDA_ROLE_ARN: arn:aws:iam::781094696899:role/lambda-image-processing-role
 
 jobs:
   deploy-metadata-extractor:
